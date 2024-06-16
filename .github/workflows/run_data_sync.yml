@@ -24,12 +24,12 @@ on:
 env:
   # please change to your own config.
   RUN_TYPE: keep # support strava/nike/garmin/coros/garmin_cn/garmin_sync_cn_global/keep/only_gpx/only_fit/nike_to_strava/strava_to_garmin/strava_to_garmin_cn/garmin_to_strava/garmin_to_strava_cn/codoon, Please change the 'pass' it to your own
-  ATHLETE: cuijianzhuang
+  ATHLETE: TangUltra
   TITLE: Running Page
   MIN_GRID_DISTANCE: 10 # change min distance here
   TITLE_GRID: Over 10km Workouts # also here
-  GITHUB_NAME: cuijianzhuang  # change to yours
-  GITHUB_EMAIL: cui2421011864@gmail.com # change to yours
+  GITHUB_NAME: TangUltra  # change to yours
+  GITHUB_EMAIL: tonrry@vip.qq.com # change to yours
 
   # IGNORE_BEFORE_SAVING: True # if you want to ignore some data before saving, set this to True
   IGNORE_START_END_RANGE: 0 # Unit meter
