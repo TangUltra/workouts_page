@@ -197,9 +197,9 @@ const geoJsonForRuns = (runs: Activity[]): FeatureCollection<LineString> => ({
 });
 
 const geoJsonForMap = (): FeatureCollection<RPGeometry> => ({
-  type: 'FeatureCollection',
-  features: worldGeoJson.features.concat(chinaGeojson.features),
-})
+    type: 'FeatureCollection',
+    features: worldGeoJson.features.concat(chinaGeojson.features),
+  })
 
 const titleForType = (type: string): string => {
   switch (type) {
@@ -288,13 +288,13 @@ const typeForRun = (run: Activity): string => {
 const titleForRun = (run: Activity): string => {
   const type = run.type;
   if (type == 'Run' || type == 'Trail Run'){
-    const runDistance = run.distance / 1000;
-    if (runDistance >= 40) {
-      return RUN_TITLES.FULL_MARATHON_RUN_TITLE;
-    }
-    else if (runDistance > 20) {
-      return RUN_TITLES.HALF_MARATHON_RUN_TITLE;
-    }
+      const runDistance = run.distance / 1000;
+      if (runDistance >= 40) {
+        return RUN_TITLES.FULL_MARATHON_RUN_TITLE;
+      }
+      else if (runDistance > 20) {
+        return RUN_TITLES.HALF_MARATHON_RUN_TITLE;
+      }
   }
   return titleForType(type);
 };
