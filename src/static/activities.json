@@ -21193,5 +21193,50 @@
 "average_speed": 0.9138810660708556,
 "source": "Keep",
 "streak": 2
+},
+{
+"run_id": 9223370313208964907,
+"name": "Run from keep",
+"distance": 1022.9703256419976,
+"moving_time": "0:12:43",
+"type": "Run",
+"start_date": "2024-08-14 14:17:26",
+"start_date_local": "2024-08-14 22:17:26",
+"location_country": "{'latitude': 39.90837734615618, 'longitude': 116.62948824942909, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u901a\u5dde\u533a', 'districtCode': '110112'}",
+"summary_polyline": "qiqrFknxfUFjAFdAJhABh@JdAJpAFjAFhAHfA?`@LnAHlA@[OsACQBOIgAIqACi@Kw@G}AIiACk@OgAIeAEOFo@CI@[Q_AGGCSGQH_@EU@i@C_@IY?k@Cg@CK@MGqACq@Qo@",
+"average_heartrate": null,
+"average_speed": 1.3407212655858423,
+"source": "Keep",
+"streak": 3
+},
+{
+"run_id": 9223370313208284707,
+"name": "Walk from keep",
+"distance": 506.3931402597676,
+"moving_time": "0:09:38",
+"type": "Hike",
+"start_date": "2024-08-14 14:31:51",
+"start_date_local": "2024-08-14 22:31:51",
+"location_country": "{'latitude': 39.907767386721446, 'longitude': 116.62677430423864, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u901a\u5dde\u533a', 'districtCode': '110112'}",
+"summary_polyline": "ijqrFm_yfUHCLDZCf@DZZJNRRh@Rt@h@DHFhADZEd@D`@AfAAZ@JC`@@ZO^KHUCMBi@IIBIFIAMa@DPFCDR",
+"average_heartrate": null,
+"average_speed": 0.8761126994113627,
+"source": "Keep",
+"streak": 3
+},
+{
+"run_id": 9223370313172624207,
+"name": "Walk from keep",
+"distance": 1604.7605411992793,
+"moving_time": "0:22:56",
+"type": "Hike",
+"start_date": "2024-08-15 00:12:49",
+"start_date_local": "2024-08-15 08:12:49",
+"location_country": "{'latitude': 39.90580660065281, 'longitude': 116.64126218358808, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u901a\u5dde\u533a', 'districtCode': '110112'}",
+"summary_polyline": "wcqrF{nxfU^HFGD`@@n@DFTJj@?HGRANJJCHIGg@EISaAQ[FUAOF[CU@_@AYFq@GKCg@GKCUGMHy@AIFM@ODOAg@HE?UKg@BIEIAWCO?k@CSGSGu@FUVOPCDi@DKB[L{@?OBKZGNMFS[{@MEGGAOMKFm@@QHQAS@y@FIE_AII?]HENUJ_@B_@DMGUB]Ag@DKHo@Aa@Hg@@[CK@SJoA@[Jc@@m@Gq@@MKoA@[GOA]GSEkAAe@ES@KGiAGaA@cAAa@HUVcADMDoABIAUEMCg@EK",
+"average_heartrate": null,
+"average_speed": 1.1662503933134296,
+"source": "Keep",
+"streak": 4
 }
 ]
