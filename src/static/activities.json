@@ -22258,5 +22258,35 @@
 "average_speed": 1.0705658594868148,
 "source": "Keep",
 "streak": 1
+},
+{
+"run_id": 9223370307779667407,
+"name": "Walk from keep",
+"distance": 1859.668208140935,
+"moving_time": "0:28:07",
+"type": "Hike",
+"start_date": "2024-10-16 10:10:21",
+"start_date_local": "2024-10-16 18:10:21",
+"location_country": "{'latitude': 39.907749983976174, 'longitude': 116.62843721213562, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u901a\u5dde\u533a', 'districtCode': '110112', 'startLatitude': 39.90589557432467, 'startLongitude': 116.63942614696684}",
+"summary_polyline": "i|prFk~zfU?NFZ?RBNCb@N\\APIFARPVGd@BPRTQ`@HZ?\\GLJ^Av@B^HLA\\EJCn@Mh@HXBRCNBJMRNR?PURDJANKDQ\\?VFRKVKNEJJXLRAJIPDf@NHH^GV_@LIHMVKHCHEf@N\\?p@J`A?LJVFFPENHC`@@PG\\IBIDULIHCPCLInAC\\@t@GN?NEHCNc@l@ID?`@ETAr@Ff@L@LCR?Mp@?LFHAPLTLAIv@Mp@D`@?j@@b@DHC^IXE`@BJJJG\\Bz@RTAb@@PFLEGYQ@MMEQNi@AKDYK?w@O_@QGWFMAYF[A]ECg@JAB]CQKUBa@CK@a@I]Pc@Uk@GY?QCOPS@MCI",
+"average_heartrate": 96.0,
+"average_speed": 1.1023522277065412,
+"source": "Keep",
+"streak": 2
+},
+{
+"run_id": 9223370307769205107,
+"name": "Walk from keep",
+"distance": 1211.5023635268672,
+"moving_time": "0:15:24",
+"type": "Hike",
+"start_date": "2024-10-16 13:17:25",
+"start_date_local": "2024-10-16 21:17:25",
+"location_country": "{'latitude': 39.904036575421884, 'longitude': 116.63677917814364, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u901a\u5dde\u533a', 'districtCode': '110112', 'startLatitude': 39.90665688726583, 'startLongitude': 116.62937494615923}",
+"summary_polyline": "w_qrFg|xfUCQKCMY`@c@HY?]EOEg@BI?KDMIIBSFKA[CKHg@JOJGDo@?i@FS@WCYBIHG\\GJKDOFMPM^A\\D^EXHt@?FEJ@LFJIPAJHLKLBLANFLJZD\\ANYNGFI@Q?SHIB}@Io@Bc@FK?MD_@?QNk@Fi@?QBOLQG[Dm@ESHYDa@CSHOEGA]Do@EQDME_@GOCkAEe@JUAYBQAM@KII@YMHWCMO@RGJSLa@NEJIDAKIM",
+"average_heartrate": 107.0,
+"average_speed": 1.3111497440766962,
+"source": "Keep",
+"streak": 2
 }
 ]
