@@ -22483,5 +22483,35 @@
 "average_speed": 1.130767410210318,
 "source": "Keep",
 "streak": 3
+},
+{
+"run_id": 9223370301379317007,
+"name": "Walk from keep",
+"distance": 1530.3683594966635,
+"moving_time": "0:20:59",
+"type": "Hike",
+"start_date": "2024-12-29 12:09:59",
+"start_date_local": "2024-12-29 20:09:59",
+"location_country": "{'latitude': 39.89242648751056, 'longitude': 116.63139600345737, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u901a\u5dde\u533a', 'districtCode': '110112', 'startLatitude': 39.90408402120859, 'startLongitude': 116.63058949601812}",
+"summary_polyline": "yqprFihyfUFQDPBg@Gm@?SDQCw@CMDINGf@Md@Q~@DJDb@U^@JDJGz@DZB`A?x@?Z?REf@@`@OVLVAVCx@HJ@x@Az@@`@FHGv@Hd@EJBLCN?HEZJJEL?LEFGHHLBHCR@n@KXDn@AHBx@BH@R?`@Oh@Hz@E`AAv@@dA?v@IFG`@JHFHEVD`ACz@Bz@E~@G^?NBf@Ax@N`AENV?dA",
+"average_heartrate": 110.0,
+"average_speed": 1.2155427795843237,
+"source": "Keep",
+"streak": 4
+},
+{
+"run_id": 9223370301377793007,
+"name": "Run from keep",
+"distance": 2990.0,
+"moving_time": "0:24:43",
+"type": "Run",
+"start_date": "2024-12-29 12:31:39",
+"start_date_local": "2024-12-29 20:31:39",
+"location_country": "{'latitude': 39.89236485562123, 'longitude': 116.63083109858849, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u901a\u5dde\u533a', 'districtCode': '110112', 'startLatitude': 39.892412449527164, 'startLongitude': 116.63121040336937}",
+"summary_polyline": "}gnrFwjyfUEpAAZDfA@lA@nACfA@bACNDjAALHj@?dAAjAC^B`ABv@BL?h@AJBnA?xAIvAGx@?l@@JCN?fA@fADnAB|@?tA@dAAdA?nA@fA?hA?rAElABNAN@^AdACx@AJ@L?LJz@?^@J@n@Sl@Eb@KHELAXKf@]h@CLMREPSh@?NO\\EPEJSfAUn@Or@GJQx@YdAQh@JCb@gAZ_AJi@FKNo@\\_AFEPe@XaAXgATaAPoAFQ?UHO@[DMBg@FKB]MmAA[Hm@?eABMCm@Fm@EQGIAMDkA@QEMD[A]@w@AM?MAO?KAOBMC[BOEM@kA?O@MAgA?]@QCcA@]AK?eAC[AgA@k@HeA@[AMBMAkABq@A]A{@@YEg@@kABMIcAAe@@MAM@w@EM?MIDBsA?sA?w@Fc@?y@@g@EKAqA@]",
+"average_heartrate": 137.0,
+"average_speed": 2.016183412002697,
+"source": "Keep",
+"streak": 4
 }
 ]
