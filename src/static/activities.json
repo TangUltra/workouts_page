@@ -22513,5 +22513,50 @@
 "average_speed": 2.016183412002697,
 "source": "Keep",
 "streak": 4
+},
+{
+"run_id": 9223370301289861507,
+"name": "Walk from keep",
+"distance": 1426.0536698622855,
+"moving_time": "0:18:35",
+"type": "Hike",
+"start_date": "2024-12-30 13:03:18",
+"start_date_local": "2024-12-30 21:03:18",
+"location_country": "{'latitude': 39.892451740254366, 'longitude': 116.63177571476646, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u901a\u5dde\u533a', 'districtCode': '110112', 'startLatitude': 39.904132951018134, 'startLongitude': 116.63079425691546}",
+"summary_polyline": "mqprFakyfUKq@EIIYA]XIb@Av@I`@CHDf@EP?REP@VFXK^Cx@HVBPEt@DV?x@MZ@PEb@B\\Fh@E\\D|@Cz@Bv@?|@Ev@C^?f@FJCZBFDx@GPM|@H`AFp@CNBx@EHBx@M|@Ah@?LHv@G\\Bb@Cz@INEv@Bp@Ef@FJ?HEp@?PDP?FGJB^AZJ|@Bt@ITJJN",
+"average_heartrate": 88.0,
+"average_speed": 1.2789719012217806,
+"source": "Keep",
+"streak": 5
+},
+{
+"run_id": 9223370301288361007,
+"name": "Run from keep",
+"distance": 2990.0,
+"moving_time": "0:23:36",
+"type": "Run",
+"start_date": "2024-12-30 13:23:19",
+"start_date_local": "2024-12-30 21:23:19",
+"location_country": "{'latitude': 39.89241493736108, 'longitude': 116.62998421788265, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u901a\u5dde\u533a', 'districtCode': '110112', 'startLatitude': 39.89243420886, 'startLongitude': 116.63152006348207}",
+"summary_polyline": "ihnrF{kyfUDl@Ad@CJB^DJBlAAv@DlACfA@hA@nABhA?z@BhAC\\CJBNDnAAnADjAAdA?x@@TCLGhAEx@BPCdA?nA?nA?dA?jA?~@BP@rA?dA@hA?lA?l@?l@@dA@nAEpA?nAHp@@PCNC`@CNCn@GLIl@IFMVA\\WdAMj@_@`A_@jAOt@]hAYhAWdA_@hACH`@{@Ja@XiAXcAXaAXcARw@BQXcATeAZcADOPiAPiADi@KyAHeA?iA@gA?kAAqA?mACmA@kA@eACkAAqA?mAAeAEkAFqA@iAFiA@kA?iA?m@BOCsAEMAUEkAAi@FYCMAsAIeAA{@@k@AyA?e@CK?g@AQ",
+"average_heartrate": 143.0,
+"average_speed": 2.111581920903955,
+"source": "Keep",
+"streak": 5
+},
+{
+"run_id": 9223370301286392707,
+"name": "Walk from keep",
+"distance": 1542.079983049057,
+"moving_time": "0:30:10",
+"type": "Hike",
+"start_date": "2024-12-30 13:49:32",
+"start_date_local": "2024-12-30 21:49:32",
+"location_country": "{'latitude': 39.903865983542445, 'longitude': 116.63052225599216, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u901a\u5dde\u533a', 'districtCode': '110112', 'startLatitude': 39.89264958556343, 'startLongitude': 116.63181472158712}",
+"summary_polyline": "sinrFyoyfUBK_@DWEM@[CKG_@BKCw@BWBYGg@BGE{@Fy@@W?u@Bc@?MDOAu@?_A?y@B_@FYESDu@CK@KAKFAKO@MFW?a@Gk@Bm@KIBEJWBg@IMEI?MF[?{@Ai@BWIo@DSFaA@_A@c@?w@IUBm@Aa@@_@@m@Fe@?WAU@]AIDa@Ek@EGIe@AI@CJIDYA_AIo@YQHMZMB@TDNE`@?fAE^@JALFRRPBJPLJ?FGMK?La@DNETG",
+"average_heartrate": 116.0,
+"average_speed": 0.8519778911873244,
+"source": "Keep",
+"streak": 5
 }
 ]
