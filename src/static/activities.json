@@ -22558,5 +22558,35 @@
 "average_speed": 0.8519778911873244,
 "source": "Keep",
 "streak": 5
+},
+{
+"run_id": 9223370301196999607,
+"name": "Walk from keep",
+"distance": 3002.7331866628956,
+"moving_time": "1:05:21",
+"type": "Hike",
+"start_date": "2024-12-31 14:03:02",
+"start_date_local": "2024-12-31 22:03:02",
+"location_country": "{'latitude': 39.89388522136563, 'longitude': 116.61359740796593, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u901a\u5dde\u533a', 'districtCode': '110112', 'startLatitude': 39.90426691244875, 'startLongitude': 116.63088447237092}",
+"summary_polyline": "}qprFyjyfUAQJkAFI@MFEv@Kh@EJEv@A`@?JDDGLHV@VMVAl@LLFVCJBJCP@ZGJDJGJFp@M^DHCh@AL@VEJEV@LDx@Jx@C|@?V?HGT?TD^Cx@Hv@CRCz@Hx@Mv@@z@CX@ZKt@Dj@Ev@Cf@ITBFFx@AHAFBz@DR?FEFGx@D~@AHCXBl@QFHl@E\\Jh@Cv@?JABHbADFCXPDP?jABj@AL@n@DLAZBTCL?t@@XAp@Fx@?ZGX?fA@rABLEVFx@A^BfADx@CV@L@t@AlABrAAp@BJ@vAEPEfAAJGDCjAENBp@@jABbAAPDj@ArA@dADfAArA?nA?hA?x@@fAAdABtAEnA?\\Lt@@l@OfASfAOh@GP?VCLWnAMVIX]j@CTUx@ALIZCFMt@_@dA_@v@GZALIX?JSd@ENGH",
+"average_heartrate": 105.0,
+"average_speed": 0.7658080047597285,
+"source": "Keep",
+"streak": 6
+},
+{
+"run_id": 9223370301193111807,
+"name": "Walk from keep",
+"distance": 3015.1439637296235,
+"moving_time": "1:01:11",
+"type": "Hike",
+"start_date": "2024-12-31 15:13:12",
+"start_date_local": "2024-12-31 23:13:12",
+"location_country": "{'latitude': 39.90412269758889, 'longitude': 116.63066287542145, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u901a\u5dde\u533a', 'districtCode': '110112', 'startLatitude': 39.893632333908855, 'startLongitude': 116.61418550569648}",
+"summary_polyline": "{nnrFocvfULq@JQHGB]DWDKBORc@H_@^iA\\mAXcABMTaANwADIJ_ABKEkA@mA@iAAuAAeA@{@Ca@BgA@SAgAAiA?gA?eACgAAqACkA@_@@}@Cg@DmAJuA?c@B{@E}@AqA?iAAw@AcABSCOB_@AYGCBMBg@G_ABKEqA@c@AMDmA@QEOEqAAoA?mA?mAEw@?iAGS{@CU@s@OU?GBICSAIBICSFKCK?m@M_@Jg@JMAUCu@?a@AKBy@?QBEIw@FcA@_@@k@AMBGFICO@m@C{@AK?a@H}@Oa@AYFI?SFa@B}@Ai@?[I]BUD{@AKBu@Ey@?a@AODu@Ew@@I@_@EKDy@?K@u@Ai@DIGu@Fm@GS@IFKCIBKCKDe@EaADK@a@KI?KFICWNEL@^G\\D~@CR?NAL",
+"average_heartrate": 104.0,
+"average_speed": 0.821341314009704,
+"source": "Keep",
+"streak": 6
 }
 ]
