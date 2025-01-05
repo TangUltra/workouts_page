@@ -22663,5 +22663,50 @@
 "average_speed": 1.0032653595498768,
 "source": "Keep",
 "streak": 9
+},
+{
+"run_id": 9223370300858397107,
+"name": "Walk from keep",
+"distance": 1259.6561896577045,
+"moving_time": "0:16:52",
+"type": "Hike",
+"start_date": "2025-01-04 12:56:06",
+"start_date_local": "2025-01-04 20:56:06",
+"location_country": "{'latitude': 39.89243024180832, 'longitude': 116.63181836040475, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u901a\u5dde\u533a', 'districtCode': '110112', 'startLatitude': 39.90325989508288, 'startLongitude': 116.63212290531204}",
+"summary_polyline": "ukprFspyfUNWHAAf@DGz@HNAJDV?b@Nl@Ej@Fv@G~@GXBHENFt@?b@GJBf@Gz@Dt@B~@Av@?bAEj@@LEp@LJCHBx@Gr@?HDp@CRBXGn@AZJNC\\?HCZALBr@E^D|@IL?LDb@?LGVCz@BNBN?PDN@LGPBZGN?TEf@B\\EbAA~@N\\IFF\\DHA",
+"average_heartrate": 98.0,
+"average_speed": 1.2447195549977317,
+"source": "Keep",
+"streak": 10
+},
+{
+"run_id": 9223370300857775907,
+"name": "Run from keep",
+"distance": 1000.0,
+"moving_time": "0:08:04",
+"type": "Run",
+"start_date": "2025-01-04 13:15:16",
+"start_date_local": "2025-01-04 21:15:16",
+"location_country": "{'latitude': 39.89239627966204, 'longitude': 116.6311623913126, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u901a\u5dde\u533a', 'districtCode': '110112', 'startLatitude': 39.8924506971458, 'startLongitude': 116.6316606060786}",
+"summary_polyline": "_hnrF_lyfU@PAbA@J?rABlAAhA@bAGl@DlA?^AL@LAZHv@@fADh@?~@C`ADRCj@@LAl@BpA?JDKC]BM?kA?MHOGm@Am@BYHACeAGGIeAAa@@MEc@BY@s@AM@WCM?kACo@B]COAiAAgAAkA",
+"average_heartrate": 146.0,
+"average_speed": 2.0661157024793386,
+"source": "Keep",
+"streak": 10
+},
+{
+"run_id": 9223370300856479707,
+"name": "Walk from keep",
+"distance": 1419.9543253719928,
+"moving_time": "0:20:20",
+"type": "Hike",
+"start_date": "2025-01-04 13:24:32",
+"start_date_local": "2025-01-04 21:24:32",
+"location_country": "{'latitude': 39.904024372041555, 'longitude': 116.63056316321729, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u901a\u5dde\u533a', 'districtCode': '110112', 'startLatitude': 39.892694475542996, 'startLongitude': 116.63189189118486}",
+"summary_polyline": "cknrF{oyfUKGo@GOBGE{@Bk@GWGOF]Dw@Ka@AUHY@SDU?IBy@Ai@Aa@Ee@@SCOB_@Ay@He@By@GYGYPw@Ak@Gq@AIDGF_@@SEYBaAEw@Ca@DYE_AJy@CKCUHu@ESC}@@UFIES@KD}@Aq@BQEi@FKCa@H}@U_AIQLy@Jw@?IBMCWJKAQt@?d@O\\C\\EPD\\Rd@",
+"average_heartrate": 112.0,
+"average_speed": 1.1638969880098302,
+"source": "Keep",
+"streak": 10
 }
 ]
